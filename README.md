@@ -1,5 +1,17 @@
-Task Manager API – Setup Guide
-📥 Installation
+# Task Manager – Setup Guide
+
+This project contains two parts:
+
+- **🛠️ task-manager-api (Laravel Backend)**
+- **💻 task-manager-frontend (React Frontend)**
+
+---
+
+## 🛠️ Task Manager API – Setup Guide
+
+### 📥 Installation
+
+```bash
 cd task-manager-api
 composer install
 cp .env.example .env
